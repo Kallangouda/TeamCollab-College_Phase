@@ -8,7 +8,7 @@ Welcome to our collaborative college website project! We are a team of 6 passion
 
 > "Coming together is a beginning, staying together is progress, and working together is success."
 
-### &nbsp; Visit site :arrow_upper_right: : &nbsp; [Click ME !!!](https://sahil-s-i.github.io/TeamCollab-College_Phase/)
+### &nbsp; Visit site :arrow_upper_right: : &nbsp; [Click ME !!!](https://kallangouda.github.io/TeamCollab-College_Phase/)
 
 <!-- > "Our goal is to build a successful website for our college where we learn and gain education." - [Your Name] -->
 
@@ -30,11 +30,12 @@ Welcome to our collaborative college website project! We are a team of 6 passion
 I am proud to introduce our  team members:
 
 1. [Sushmita](https://github.com/Sushmitahanji)
-2. [Kallangouda](https://github.com/Kallangouda)
+2. [Sahil](https://github.com/Sahil-s-i)
 3. [Prajwal](https://github.com/prajwal-r-h)
 4. [Nagraj](https://github.com/Nagaraja-Kamatar)
 5. [Sangmesh](https://github.com/SangameshPK-2003)
-6. [Me](https://github.com/Sahil-s-i)
+6. [Me](https://github.com/Kallangouda)
+
 
 ## About the Project
 
@@ -73,8 +74,8 @@ We welcome contributions from the open-source community. If you'd like to contri
 
 Have questions, suggestions, or want to collaborate with us? Reach out to us:
 
-- [Email Us](sahilismailnavar@gmail.com)
-- [Connect on LinkedIn](https://www.linkedin.com/in/sahil-ismailnavar)
+- [Email Us](kallangoudafpatil@gmail.com)
+- [Connect on LinkedIn](https://www.linkedin.com/in/kallangouda-patil/)
 
 Let's work together and make this project a success!
 
