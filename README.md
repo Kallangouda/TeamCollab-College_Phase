@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Team Collaboration College Project
 
@@ -86,3 +87,6 @@ Let's work together and make this project a success!
 
 ---
 ---
+=======
+# TeamCollab-College_Phase
+>>>>>>> 2cb3f872006b57b27544918054bf2ae8adbb0f8d
